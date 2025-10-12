@@ -3,3 +3,5 @@ route_id,stop_name,arrival_time,departure_time
 201,Shivajinagar,09:00,09:05
 A12,Andheri,08:25,08:30
 A12,Bandra,08:55,09:00
+B1,Central,08:45,08:50
+B1,East,09:15,09:20
