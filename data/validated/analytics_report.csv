@@ -1,0 +1,2 @@
+total_rows,unique_routes,unique_stops,missing_arrival_times,missing_departure_times,invalid_time_pairs
+6,3,6,0,0,0
