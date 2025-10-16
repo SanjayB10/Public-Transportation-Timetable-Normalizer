@@ -1,0 +1,7 @@
+route_id,stop_name,arrival_time,departure_time,dep_minutes,arr_minutes
+201,Majestic,08:30,08:35,515,510
+201,Shivajinagar,09:00,09:05,545,540
+A12,Andheri,08:25,08:30,510,505
+A12,Bandra,08:55,09:00,540,535
+B1,Central,08:45,08:50,530,525
+B1,East,09:15,09:20,560,555
